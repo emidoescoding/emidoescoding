@@ -1,16 +1,19 @@
-## Hi there 👋
+## Welcome to my little page! 
+![keyboardthingy banner](https://github.com/user-attachments/assets/a4b86382-4f32-4def-b6a8-2aa32fd073ca)
 
-<!--
-**emidoescoding/emidoescoding** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, hi!! I'm **Emi**, currently studying at Blekinge Institute of Technology 🌻
 
-Here are some ideas to get you started:
+> 🌱 **Pronouns:** she/they
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm super interested in ui & ux design, coding as well as design and art in general! I love learning anything creative such as 3D in Blender like the banner up top. I also enjoy sewing, drawing and playing around with new design ideas in figma! 📓
+
+<hr />
+
+  - 🌿 I’m currently working on the basic of basics! Doing school assignments and some personal projects
+  - 🍁 I’m currently learning JS
+
+Skills: \
+Community Management | Design | Project Management 
+
+Spoken languages: \
+Danish | English | Swedish
